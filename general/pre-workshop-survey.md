@@ -13,7 +13,7 @@
     
     ```
 
-1. Below are some reasons we think people will come to Toronto Mesh workshops. Some of these reasons may overlap with the reasons you suggested above. How important were these reasons to you? _(Not at all important, Slightly important, Important, Very important, N/A)_
+1. Below are some reasons we think people will come to the workshops. Some of these reasons may overlap with the reasons you suggested above. How important were these reasons to you? _(Not at all important, Slightly important, Important, Very important, N/A)_
 
     - Improve your knowledge of networking and the internet
     - Join an active project or group of enthusiasts
@@ -28,13 +28,11 @@
     - Learning with friends/colleagues
     - Other (please specify)
 
-1. How did you hear about Toronto Mesh / Building the Peer-to-Peer Internet workshop? _(Select all that apply)_
+1. How did you hear about Building the Peer-to-Peer Internet workshop? _(Select all that apply)_
 
     - Friend/colleague
-    - Conference/meeting/seminar
-    - Library website or flyer 
-    - Journal or publication
-    - Our website
+    - BRAG website or email newsletter 
+    - Newspaper or radio
     - Social Media (Twitter, Facebook, etc.)
     - Other (please specify)
 

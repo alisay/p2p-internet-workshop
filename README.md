@@ -1,5 +1,5 @@
 # Building the Peer-to-Peer Internet
-_**Workshop Series** by [Toronto Mesh](https://tomesh.net)_
+_**Workshop Series** by [Alisa Blakeney](https://alisa.pizza)_
 
 [![Build Status](https://travis-ci.org/tomeshnet/p2p-internet-workshop.svg?branch=master)](https://travis-ci.org/tomeshnet/p2p-internet-workshop)
 [![GitHub release](https://img.shields.io/github/release/tomeshnet/p2p-internet-workshop.svg)](https://github.com/tomeshnet/p2p-internet-workshop/releases)
